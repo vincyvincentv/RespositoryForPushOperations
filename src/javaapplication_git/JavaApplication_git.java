@@ -21,6 +21,7 @@ public class JavaApplication_git {
         System.out.println("fetch and merge operation");
         //changes
         //This is my branch , updated in remote
+        //update in the testBranch 2
     }
     
 }
