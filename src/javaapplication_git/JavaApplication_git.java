@@ -19,6 +19,7 @@ public class JavaApplication_git {
         System.out.println("push operation");
         System.out.println("pull operation");
         System.out.println("fetch and merge operation");
+        //changes
     }
     
 }
