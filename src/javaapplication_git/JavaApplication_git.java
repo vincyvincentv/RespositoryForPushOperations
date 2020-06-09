@@ -17,6 +17,7 @@ public class JavaApplication_git {
     public static void main(String[] args) {
         // TODO code application logic here
         System.out.println("push operation");
+        System.out.println("pull operation");
     }
     
 }
