@@ -22,6 +22,7 @@ public class JavaApplication_git {
         //changes
         //This is my branch , updated in remote
         //update in the testBranch 2
+        //updated in remote
     }
     
 }
