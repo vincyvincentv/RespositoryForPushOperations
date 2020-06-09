@@ -20,7 +20,7 @@ public class JavaApplication_git {
         System.out.println("pull operation");
         System.out.println("fetch and merge operation");
         //changes
-        //sefhewi
+        //This is my branch , updated in remote
     }
     
 }
